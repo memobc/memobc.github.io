@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources: 
+    - "*.pdf"
 
 website:
   description: "Research on the cognitive neuroscience of memory."
