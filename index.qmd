@@ -57,7 +57,7 @@ pagetitle: Memory Modulation Lab
 :::::
 
 :::: grid
-::: g-col-6
+::: {.g-col-12 .g-col-sm-6}
 ### Contact us
 
 We are located in the Department of Psychology and Neuroscience at Boston College:
