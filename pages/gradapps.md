@@ -1,24 +1,27 @@
 ---
 title: Applying to grad school
+aliases: 
+  - /gradapps
+  - /pages/gradapps
 ---
 
-**Please note that I do NOT plan to review applications from prospective PhD students in Fall 2024.** The following contains information from previous years, which might be generally useful for understanding the grad admissions process. I wish you the best of luck in your search!
+**I plan to review applications from prospective PhD students in Fall 2025.** However, you should contact me for important updates to the application process before applying.
 
 ------------------------------------------------------------------------
 
-On our website, you can find more information about our [research](/research) and a list of our recent [publications](/publications). If you are interested in any of these topics, or other topics that dovetail with our existing lines of research, I encourage you to consider our lab for your doctoral training. Please see the following Q&A for information about whether and how to apply.
+On our website, you can find more information about our [research](/research) and a list of our recent [publications](/papers). If you are interested in any of these topics, or other topics that dovetail with our existing lines of research, I encourage you to consider our lab for your doctoral training. Please see the following Q&A for information about whether and how to apply.
 
 **Is the MemoLab right for me?**
 
 As you put together your list of potential grad school labs, there are a lot of factors to consider-- the scientific fit of the lab, the PI’s mentoring style, the reputation of the program and university, the geographic location, among others. To help determine whether our lab is a good scientific and mentoring fit for you, I recommend the following:
 
-For scientific fit - Read a couple of our [papers](/publications). Do you think they are interesting? Do new scientific questions or ideas come to mind as you read them? Would you be interested in answering those questions? Does the idea of working with large datasets and analysis techniques excite you? If you’ve answered yes to those questions, then our lab might be a good scientific fit for you.
+For scientific fit - Read a couple of our [papers](/papers). Do you think they are interesting? Do new scientific questions or ideas come to mind as you read them? Would you be interested in answering those questions? Does the idea of working with large datasets and analysis techniques excite you? If you’ve answered yes to those questions, then our lab might be a good scientific fit for you.
 
 For mentoring fit - Read through our [lab manual](https://docs.google.com/document/d/1L1DhF3gKZKVGb_MDEmdqvBwm5thWiqyMy8AS_kzJnSM/edit), which outlines my expectations for trainees and for myself as a mentor. Do these expectations fit with what you are looking for? Does the vibe seem right to you? One of my main goals as a mentor is to foster a collegial, collaborative environment with appreciation for each individual’s talents, perspectives, and life circumstances. My mentoring approach is likely to differ somewhat from person to person. If you are invited to interview with our lab, I encourage you to talk with the other trainees and see what their experiences have been.
 
 **How do I apply?**
 
-Specific application instructions can be found [here](https://www.bc.edu/content/bc-web/schools/mcas/departments/psychology/graduate/doctoral-program.html). Note that the application fee can be waived in some circumstances, and I encourage you to apply for a [waiver](https://www.bc.edu/content/bc-web/schools/mcas/graduate/admission.html/#process) if you can. The GRE will be optional for this year's application cycle.
+Specific application instructions can be found here (link forthcoming). Note that the application fee can be waived in some circumstances, and I encourage you to apply for a waiver if you can.
 
 Our department uses a traditional lab-based admissions process, in that each student applies to work with a particular professor in a particular lab. If you wish to work with me, then I will be the one who is primarily reviewing your application. You should be sure to list my name on your application. You can list other professors as well; however, this is not required. In some cases, a grad student can be co-mentored by two professors. If this is something that you're interested in and if it makes sense for your research interests, you should include this in your application.
 
@@ -36,4 +39,6 @@ Your personal statement can also be a place to showcase your critical or creativ
 
 Right now, our main projects are centered on the network interactions supporting memory for events (including memory for affective and social information), individual differences in episodic memory, and the impact of memory reactivation on later retrieval. I am *not* currently recruiting students for research on emotion regulation or stress effects on memory. Most of our work uses behavioral, fMRI, or eye-tracking methods, and we are in the early days of a study combining TMS with fMRI, so that's another option for incoming students.
 
-**Additional Resources:** - [BC Psychology & Neuroscience Doctoral Program Information](https://www.bc.edu/content/bc-web/schools/mcas/departments/psychology/graduate/doctoral-program.html) - [BC Psychology & Neuroscience Application Mentorship Program](https://www.bc.edu/content/bc-web/schools/mcas/departments/psychology/graduate/doctoral-program.html#amp) - [How Applying to Grad School Works](https://www.sokolhessnerlab.com/howapplyingworks)
+**Additional Resources:**
+
+[How Applying to Grad School Works](https://www.sokolhessnerlab.com/howapplyingworks)

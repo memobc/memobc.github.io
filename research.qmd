@@ -13,9 +13,11 @@ By establishing the basic mechanisms supporting human memory, our research helps
 
 This research would not be possible without grants from the **National Institute of Mental Health**, **National Science Foundation**, and **Brain and Behavior Research Foundation**.
 
+------------------------------------------------------------------------
+
 ### Lab approach
 
-Our research incorporates multiple techniques for understanding cognitive and brain function, including functional neuroimaging, non-invasive brain stimulation, behavioral modeling, and eye-tracking. This combination of techniques allows us to characterize both the brain network interactions and cognitive processes involved in reconstructing episodic memories. 
+Our research incorporates multiple techniques for understanding cognitive and brain function, including functional neuroimaging, non-invasive brain stimulation, behavioral modeling, and eye-tracking. This combination of techniques allows us to characterize both the brain network interactions and cognitive processes involved in reconstructing episodic memories.
 
 ![](/img/lab_methods.png)
 

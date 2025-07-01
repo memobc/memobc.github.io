@@ -1,7 +1,7 @@
 ---
 title: Rachel Wegener
 subtitle: Senior Thesis Student
-image: img/brain.jpg
+image: img/rachel.jpg
 sort_order: 5.3
 about:
   template: trestles
