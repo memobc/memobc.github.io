@@ -17,4 +17,3 @@ format:
       - styles_news.css # specific to news grid
       - styles.css
 ---
-
