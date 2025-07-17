@@ -13,7 +13,7 @@ about:
     - icon: mortarboard
       href: https://scholar.google.com/citations?user=tJkM9R0AAAAJ&hl=en&oi=ao
     - text: "CV"
-      href: /people/cv/krenz_cv.pdf
+      href: https://docs.google.com/document/d/e/2PACX-1vRQQDPQ_fvmgwOPAvvloLiqrBHqmO3EILQo7Anb2afDWD9AMmvWfHLkcgRih2U5an2F3Elb-8f2zS5A/pub
 ---
 
 #### Education
