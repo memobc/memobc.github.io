@@ -3,7 +3,7 @@ title: "Research"
 toc: true
 ---
 
-In the **Memory Modulation Lab**, we use the tools of cognitive neuroscience to answer questions about memory and the brain.
+In the **MemoLab**, we use the tools of cognitive neuroscience to answer questions about memory and the brain.
 
 By establishing the basic mechanisms supporting human memory, our research helps to provide a foundation for:
 

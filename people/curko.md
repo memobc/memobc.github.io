@@ -18,6 +18,6 @@ B.S., Lafayette College, 2022
 
 #### Profile
 
-I graduated from Lafayette College in 2022 with a B.S. in Psychology and a minor in Mathematics. There, I completed an honors thesis examining the role of contextual information in passage comprehension and recall. I look forward to pursuing my interests in episodic memory and emotion in the Memory Modulation Lab!
+I graduated from Lafayette College in 2022 with a B.S. in Psychology and a minor in Mathematics. There, I completed an honors thesis examining the role of contextual information in passage comprehension and recall. I look forward to pursuing my interests in episodic memory and emotion in the MemoLab!
 
 Outside of the lab, I love playing volleyball, discovering new music, reading, and traveling.

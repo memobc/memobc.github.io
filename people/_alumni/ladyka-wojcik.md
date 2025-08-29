@@ -17,6 +17,6 @@ social:
     url: https://natalialadykawojcik.carrd.co/
 weight: 2.1
 ---
-I joined the Memory Modulation Lab as a postdoctoral researcher in January 2024 after completing my PhD in Psychology at the University of Toronto. My doctoral work was focused on the cognitive neuroscience of memory representations across the lifespan, using behavioural, eyetracking, and functional neuroimaging (fMRI) techniques. Before my PhD, I completed an MA at the University of Toronto and a Bilingual Honours BA at York University (Glendon College). At Boston College, I am excited to continue exploring questions related to memory representations using new techniques like transcranial magnetic stimulation (TMS). 
+I joined the MemoLab as a postdoctoral researcher in January 2024 after completing my PhD in Psychology at the University of Toronto. My doctoral work was focused on the cognitive neuroscience of memory representations across the lifespan, using behavioural, eyetracking, and functional neuroimaging (fMRI) techniques. Before my PhD, I completed an MA at the University of Toronto and a Bilingual Honours BA at York University (Glendon College). At Boston College, I am excited to continue exploring questions related to memory representations using new techniques like transcranial magnetic stimulation (TMS). 
 
 Beyond research, I love long-distance running, cycling, baking, and reading mystery novels.

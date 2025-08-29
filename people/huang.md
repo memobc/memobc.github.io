@@ -20,6 +20,6 @@ I completed both my undergraduate and master’s degrees in German Department. D
 
 Simultaneously during my master’s, I conducted research in cognitive neuroscience, specifically focusing on visual mental imagery.
 
-I hope to integrate my interests in linguistics and visual memory representation by conducting research on the interaction between different types of memory representations during my PhD at the Memory Modulation Lab.
+I hope to integrate my interests in linguistics and visual memory representation by conducting research on the interaction between different types of memory representations during my PhD at the MemoLab.
 
 Outside the lab, I enjoy cooking and traveling.

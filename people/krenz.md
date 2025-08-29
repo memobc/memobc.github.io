@@ -24,6 +24,6 @@ B.Sc., University Kassel, 2014
 
 #### Profile
 
-I completed my Ph.D. in Psychology at University Hamburg (Germany) in January 2024. My doctoral research focused on the systems consolidation and transformation of memories over time and the influence of emotional arousal on these processes. I am thrilled to continue my work on the neural correlates and modulating factors of memory specificity at the Memory Modulation Lab at Boston College. I furthermore hold a particular interest in the functional differentiation along the hippocampal long axis and representational similarity analyses of neuroimaging data.
+I completed my Ph.D. in Psychology at University Hamburg (Germany) in January 2024. My doctoral research focused on the systems consolidation and transformation of memories over time and the influence of emotional arousal on these processes. I am thrilled to continue my work on the neural correlates and modulating factors of memory specificity at the MemoLab at Boston College. I furthermore hold a particular interest in the functional differentiation along the hippocampal long axis and representational similarity analyses of neuroimaging data.
 
 Outside of the lab, I enjoy climbing, hiking, reading, crocheting, and taking care of my plants.

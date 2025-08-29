@@ -1,11 +1,11 @@
 ---
-pagetitle: Memory Modulation Lab
+pagetitle: MemoLab
 ---
 
 ::::: grid
 :::: g-col-12
 ::: {style="font-size: 1.4em; text-align: center;"}
-<br> In the **Memory Modulation Lab**, we use the tools of cognitive neuroscience to answer questions about memory and the brain.
+<br> In the **MemoLab**, we use the tools of cognitive neuroscience to answer questions about memory and the brain.
 :::
 ::::
 :::::
@@ -46,7 +46,7 @@ pagetitle: Memory Modulation Lab
 
 <br> <br>
 
-![The Memory Modulation Lab at Boston College, Fall 2024](people/img/memolab_group_2024.jpg)
+![The MemoLab at Boston College, Fall 2024](people/img/memolab_group_2024.jpg)
 
 ::::: grid
 :::: g-col-12
