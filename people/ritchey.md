@@ -13,7 +13,7 @@ about:
     - icon: mortarboard
       href: https://scholar.google.com/citations?user=kmOfw54AAAAJ&hl=en&oi=ao
     - icon: envelope
-      href: mailto:maureen.ritchey@bc.edu
+      href: mailto:mritchey@ucla.edu
     - text: "CV"
       href: /people/cv/Ritchey_CV.pdf
 ---
@@ -25,8 +25,4 @@ B.S., B.A., University of Notre Dame, 2005
 
 #### Profile
 
-I’m an Associate Professor in the Department of Psychology and Neuroscience at Boston College, where I've been since 2016. I direct the MemoLab, where we use the tools of cognitive neuroscience to investigate the neural bases of episodic memory. I’m especially interested in the brain network connections that mediate the encoding and retrieval of event memories, and how these processes are modulated by the contents and precision of memories, their emotional significance, and other contextual factors. My research has been funded by the National Institute of Mental Health, the National Science Foundation, and the Brain and Behavior Research Foundation. At Boston College, I teach [courses](http://www.thememolab.org/pages/courses) related to cognitive neuroscience, research methods, and, of course, memory and the hippocampus.
-
-Outside of the lab, I enjoy reading, hiking, adventures in baking, and Boston summers.
-
-#### 
+I’m an Associate Professor in the Department of Psychology at the University of California, Los Angeles. I direct the MemoLab, where we investigate the cognitive and neural processes supporting episodic memory. I am particularly interested in the brain processes involved in reconstructing event details, their relation to memory specificity, and their modulation by social, emotional, and attentional factors. I received my Ph.D. in Psychology and Neuroscience from Duke University, followed by postdoctoral training at the University of California, Davis. Before joining UCLA, I was on the faculty at Boston College for several years. My lab's research has been supported by a CAREER award from the National Science Foundation and grants from the National Institute of Mental Health and the Brain and Behavior Research Foundation. Outside of the lab, I enjoy reading (mostly fiction), hiking, and adventures in baking.
