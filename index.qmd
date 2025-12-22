@@ -56,19 +56,16 @@ pagetitle: MemoLab
 ::::
 :::::
 
-::::: grid
-:::: {.g-col-12 .g-col-sm-6}
+:::: grid
+::: {.g-col-12 .g-col-sm-6}
 ### Contact us
 
-We are located in the Department of Psychology and Neuroscience at Boston College:
+We are located in the <a href="https://www.psych.ucla.edu/">Department of Psychology</a> at UCLA:
 
-140 Commonwealth Ave., McGuinn 300\
-Chestnut Hill, MA 02467\
-<a href="mailto:thememolab@bc.edu" title="email"><i class="bi bi-envelope"></i></a>   <a href="https://github.com/memobc" title="github"><i class="bi bi-github"></i></a>  
+3205 Franz Hall\
+Los Angeles, CA 90095\
+<a href="mailto:mritchey+memolab@ucla.edu" title="email"><i class="bi bi-envelope"></i></a>   <a href="https://github.com/memobc" title="github"><i class="bi bi-github"></i></a>  
 
 [Participate](/participate) in psychology and neuroscience research, or inquire about [joining the lab](/joinus).
-
-<b>The MemoLab will be moving to UCLA Psychology in January 2026. [Find out more →](/news/2025-09-15-ucla-move.html)</b>
-
+:::
 ::::
-:::::

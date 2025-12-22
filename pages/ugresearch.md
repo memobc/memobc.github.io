@@ -4,6 +4,10 @@ aliases:
   - /pages/ugresearch
 ---
 
+::: callout-note
+This page is under construction and will be updated for our new lab at UCLA soon. In the meantime, email [us](mailto:mritchey+memolab@ucla.edu) if you are interested in undergraduate research positions.
+:::
+
 Undergraduate research assistants (RAs) are a crucial part of any psychology lab. Working as a RA is a great opportunity to learn more about psychology and neuroscience and to develop both the “soft skills” and technical skills that are useful for any STEM profession. RAs will have the opportunity to learn more about research methods and current directions in cognitive neuroscience, as well as the programming and data analysis skills that complement our experimental work. This can be valuable training for students interested in pursuing graduate school in any field, including (but not limited to) cognitive neuroscience and clinical psychology. For students with existing skills in computer science, our lab can also offer unique opportunities to develop tools for cognitive neuroscience research. Because our lab is relatively small, we are able to provide tailored mentorship experiences for students with different interests and from different backgrounds.
 
 There are a few different ways in which undergraduates can get involved in our lab. One way is to be hired as a RA in our lab, typically for 4-8 hours per week. We have a limited number of total hours available each semester, so these positions tend to be competitive. Another way is to earn course credit through the Undergraduate Research course. Students enrolled in this course work as an RA for approximately 10 hours per week and also complete readings and a few short written assignments. Students must apply for these positions in the same way that they apply for paid positions. Students who have spent at least one semester in lab may be eligible to apply for a paid undergraduate research fellowship, which involves a more significant time and scholarly commitment to lab. Note that all of our paid options can be applied to the work-study program.

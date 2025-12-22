@@ -30,7 +30,7 @@ toc: true
 
 ### Other links
 
--   Information about [courses](/pages/courses) that I offer at Boston College
+-   Information about [courses](/pages/courses) that I have offered previously
 -   List of undergrad & post-bacc research [opportunities](https://docs.google.com/spreadsheets/d/1Nn_3INaaLhdQKwWy5_2KKEurj2scn6efdb8CrC15cyk/edit?usp=sharing) in cognitive neuroscience
 -   [Harvard Center for Brain Science Neuroimaging Facility](http://cbs.unix.fas.harvard.edu/science/core-facilities/neuroimaging)
 -   [BU Cognitive Neuroimaging Center](https://www.bu.edu/neuroimaging/)

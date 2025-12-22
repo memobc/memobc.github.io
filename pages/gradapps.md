@@ -17,7 +17,7 @@ On our website, you can find more information about our [research](/research) an
 
 As you put together your list of potential grad school labs, there are a lot of factors to consider-- the scientific fit of the lab, the PI’s mentoring style, the reputation of the program and university, the geographic location, among others. To help determine whether our lab is a good scientific and mentoring fit for you, I recommend the following:
 
-For scientific fit - Read a couple of our [papers](/papers). Do you think they are interesting? Do new scientific questions or ideas come to mind as you read them? Would you be interested in answering those questions? Does the idea of working with large datasets and analysis techniques excite you? If you’ve answered yes to those questions, then our lab might be a good scientific fit for you.
+For scientific fit - Read a couple of our [papers](/papers). The ones with a starred bookmark icon were conducted primarily in my lab. Do you think they are interesting? Do new scientific questions or ideas come to mind as you read them? Would you be interested in answering those questions? Does the idea of working with large datasets and analysis techniques excite you? If you’ve answered yes to those questions, then our lab might be a good scientific fit for you.
 
 For mentoring fit - Read through our [lab manual](https://docs.google.com/document/d/1L1DhF3gKZKVGb_MDEmdqvBwm5thWiqyMy8AS_kzJnSM/edit), which outlines my expectations for trainees and for myself as a mentor. Do these expectations fit with what you are looking for? Does the vibe seem right to you? One of my main goals as a mentor is to foster a collegial, collaborative environment with appreciation for each individual’s talents, perspectives, and life circumstances. My mentoring approach is likely to differ somewhat from person to person. If you are invited to interview with our lab, I encourage you to talk with the other trainees and see what their experiences have been.
 
@@ -29,7 +29,7 @@ If you wish to work with me, you should be sure to list my name on your applicat
 
 You are welcome to email me ahead of time to introduce yourself. I do not typically hold Zoom meetings with applicants until after I’ve reviewed applications (but if there are extenuating circumstances, let me know). If you choose to email me before submitting your application, please include your resume or CV and a paragraph about your research interests and why you want to apply to my lab (see section below). If it is obvious to me that it’s not a good research fit, I may tell you, and then it’s up to you whether you proceed with the application process.
 
-Once I have reviewed the applications, I will contact a short list of applicants for Zoom interviews, probably before the end of the year. Then an even shorter list will be invited to interview on campus early in the spring semester.
+Once I have reviewed the applications, I will contact a short list of applicants for a Zoom chat, probably before the end of the year. Then an even shorter list will be invited to interview early in the spring semester.
 
 **What will make my application stand out?**
 
