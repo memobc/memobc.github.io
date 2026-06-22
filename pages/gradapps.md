@@ -6,7 +6,7 @@ aliases:
 ---
 
 ::: callout-note
-**My lab and I will be moving to UCLA in January 2026.** You should plan to apply to **UCLA Psychology** if you are interested in working in my lab. And yes, I will be reviewing applications for the upcoming cycle!
+**My lab and I are now located at UCLA.** You should plan to apply to **UCLA Psychology** if you are interested in working in my lab. I will be reviewing applications, but it is not guaranteed that I will be able to admit a student in the upcoming 2027 admission cycle.
 :::
 
 ------------------------------------------------------------------------
@@ -25,7 +25,7 @@ For mentoring fit - Read through our [lab manual](https://docs.google.com/docume
 
 Specific application instructions can be found [here](https://www.psych.ucla.edu/graduate/prospective-students/application-instructions/). Note that the application fee can be waived in some circumstances, and I encourage you to apply for a waiver if you can.
 
-If you wish to work with me, you should be sure to list my name on your application. You can list other professors as well; however, this is not required. In some cases, a grad student can be co-mentored by two professors. If this is something that you're interested in and if it makes sense for your research interests, you should include this in your application.
+If you wish to work with me, you should apply to the Cognitive area. There are multiple "majors" you can choose from once you are admitted, including Cognitive Neuroscience. Be sure to list my name on your application. You can list other professors as well; however, this is not required. In some cases, a grad student can be co-mentored by two professors. If this is something that you're interested in and if it makes sense for your research interests, you should include this in your application.
 
 You are welcome to email me ahead of time to introduce yourself. I do not typically hold Zoom meetings with applicants until after I’ve reviewed applications (but if there are extenuating circumstances, let me know). If you choose to email me before submitting your application, please include your resume or CV and a paragraph about your research interests and why you want to apply to my lab (see section below). If it is obvious to me that it’s not a good research fit, I may tell you, and then it’s up to you whether you proceed with the application process.
 
@@ -42,6 +42,10 @@ In addition, successful candidates will typically have experience in human subje
 **What types of research projects are you planning for the future?**
 
 Right now, our main projects are centered on the network interactions supporting memory for events (including memory for affective and social information), individual differences in episodic memory, and the impact of memory reactivation and retrieval strategies on later retrieval. I am *not* currently recruiting students for research on emotion regulation or stress effects on memory. Most of our work uses behavioral, fMRI, or eye-tracking methods, and we are also running a study that combines TMS with fMRI, so that's another option for incoming students.
+
+**Are there any specific guidelines for international applicants?**
+
+UCLA maintains a [webpage](https://grad.ucla.edu/admissions/international-applicants/) with resources for international grad school applicants. International students are invited to apply. However, please note that international students are considered non-residents, and admission will be contingent on the availability of research funds to cover non-resident tuition fees.
 
 **Additional Resources:**
 
