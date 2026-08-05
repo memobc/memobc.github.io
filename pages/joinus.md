@@ -9,7 +9,7 @@ Our research is broadly focused on understanding how episodic memories are repre
 
 If you’re interested in any of these topics, or in other topics that dovetail with our existing lines of research, get in touch! In my role as a professor and lab director, I am committed to providing tailored mentorship experiences for trainees with different interests and from different backgrounds.
 
-**Prospective PhD Students:** I plan to review applications from prospective PhD students in fall 2025; please see this [page](/gradapps) for more information.
+**Prospective PhD Students:** Please see this [page](/gradapps) for more information.
 
 **Prospective Postdocs:** If you are looking for a postdoc position and think my lab would be a good fit for you, please reach out so we can discuss.
 
