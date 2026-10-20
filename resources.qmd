@@ -7,18 +7,18 @@ toc: true
 
 ### Lab manual
 
--   The MemoLab [lab manual](https://docs.google.com/document/d/1L1DhF3gKZKVGb_MDEmdqvBwm5thWiqyMy8AS_kzJnSM/edit?usp=sharing). You are welcome to share and adapt it.
+-   The MemoLab [lab manual](https://docs.google.com/document/d/1kNQP5z0_gSZdSIcj4gdSbYu8TJCBV7mliCV75s_FfQ8/edit?usp=sharing). You are welcome to share and adapt it.
 
-### Programming for Psychology and Neuroscience
+### Data Skills for Psychology
 
--   Course website for [Programming for Psychology and Neuroscience](https://ritcheym.github.io/ppn/), an introduction to R programming with applications to psychology and neuroscience datasets
+-   Course website for [Data Skills for Psychology](https://ritcheym.github.io/dataskills/), an introduction to R programming with applications to psychology and neuroscience datasets
 
 ### Useful tips & tools
 
 -   [R code](https://github.com/ritcheym/generate-exam) for reproducibly generating exam versions
 -   Shiny apps demonstrating ROC curves: [simple](https://maureen.shinyapps.io/SimpleROC/), [dual-process](https://maureen.shinyapps.io/DualProcessROC/) ([source code](http://github.com/ritcheym/shinyapps))
 -   Miscellaneous SPM & fMRI [scripts](http://github.com/ritcheym/fmri_misc), including a tutorial on how to set up an [SPM batch system](http://github.com/ritcheym/fmri_misc/tree/master/batch_system)
--   Tips on [how to run mriqc and fmriprep](/resources/2018/02/05/running-bidsapps-on-cluster/) on our cluster
+-   Tips on [how to run mriqc and fmriprep](/resources/2018/02/05/running-bidsapps-on-cluster/) on our cluster (out of date but may still be helpful)
 
 ### Data and code
 
