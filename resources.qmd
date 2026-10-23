@@ -26,7 +26,7 @@ toc: true
 -   Database of news videos with emotion and memorability [norms](http://www.thememolab.org/paper-videonorming)
 -   Citation network map of the affective science literature - [companion website](https://affectnet.org/)
 -   All of our lab's public [GitHub repositories](http://github.com/memobc)
--   Looking for data or code from a specific paper from our lab? Look for the icons on the [Papers](/publications) page.
+-   Looking for data or code from a specific paper from our lab? Look for the icons on the [Papers](/papers) page.
 
 ### Other links
 

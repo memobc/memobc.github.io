@@ -56,3 +56,11 @@
 .icon-link:hover {
   color: #0d6efd;
 }
+
+/* key at top of papers page */
+.paper-key {
+  font-size: 0.75rem;
+  color: #6c757d;
+  text-align: right;
+  margin-bottom: 0.5rem;
+}

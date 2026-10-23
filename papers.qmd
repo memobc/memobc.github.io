@@ -6,6 +6,10 @@ aliases:
 css: styles.css
 ---
 
+::: paper-key
+<i class="bi bi-bookmark-star-fill"></i> led or co-led by our lab  ∙  <i class="bi bi-unlock"></i> open access  ∙  <i class="bi bi-code-slash"></i> data & code
+:::
+
 ```{r, echo=FALSE, message=FALSE, warning=FALSE, results = "asis"}
 library(readr)
 library(glue)

@@ -141,6 +141,9 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<div class="paper-key">
+<p><i class="bi bi-bookmark-star-fill"></i> led or co-led by our lab &nbsp;∙&nbsp; <i class="bi bi-unlock"></i> open access &nbsp;∙&nbsp; <i class="bi bi-code-slash"></i> data &amp; code</p>
+</div>
 <div class="paper-row">
   <div class="paper-year">2027</div>
   <div class="paper-info">
@@ -1310,16 +1313,22 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>© 2025 MemoLab ∙ Made with <a href="https://quarto.org">Quarto</a></p>
+<p>© <span id="footer-year">2026</span> MemoLab ∙ Made with <a href="https://quarto.org">Quarto</a></p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;
     </div>
     <div class="nav-footer-right">
-<p><a href="mailto:thememolab@bc.edu" title="email"><i class="bi bi-envelope"></i></a> ∙ <a href="./pages/participate">Participate</a> ∙ <a href="./pages/joinus">Join</a></p>
+<p><a href="mailto:mritchey+memolab@ucla.edu" title="email"><i class="bi bi-envelope"></i></a> ∙ <a href="./pages/joinus">Join</a></p>
 </div>
   </div>
 </footer>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var y = document.getElementById("footer-year");
+    if (y) y.textContent = new Date().getFullYear();
+  });
+</script>
 
 
 

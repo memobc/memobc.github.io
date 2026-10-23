@@ -181,7 +181,7 @@ ul.task-list li input[type="checkbox"] {
 <li>Database of news videos with emotion and memorability <a href="http://www.thememolab.org/paper-videonorming">norms</a></li>
 <li>Citation network map of the affective science literature - <a href="https://affectnet.org/">companion website</a></li>
 <li>All of our lab’s public <a href="http://github.com/memobc">GitHub repositories</a></li>
-<li>Looking for data or code from a specific paper from our lab? Look for the icons on the <a href="./publications">Papers</a> page.</li>
+<li>Looking for data or code from a specific paper from our lab? Look for the icons on the <a href="./papers">Papers</a> page.</li>
 </ul>
 </section>
 <section id="other-links" class="level3">
@@ -621,16 +621,22 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>© 2025 MemoLab ∙ Made with <a href="https://quarto.org">Quarto</a></p>
+<p>© <span id="footer-year">2026</span> MemoLab ∙ Made with <a href="https://quarto.org">Quarto</a></p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;
     </div>
     <div class="nav-footer-right">
-<p><a href="mailto:thememolab@bc.edu" title="email"><i class="bi bi-envelope"></i></a> ∙ <a href="./pages/participate">Participate</a> ∙ <a href="./pages/joinus">Join</a></p>
+<p><a href="mailto:mritchey+memolab@ucla.edu" title="email"><i class="bi bi-envelope"></i></a> ∙ <a href="./pages/joinus">Join</a></p>
 </div>
   </div>
 </footer>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var y = document.getElementById("footer-year");
+    if (y) y.textContent = new Date().getFullYear();
+  });
+</script>
 
 
 

@@ -12,7 +12,7 @@ pagetitle: MemoLab
 
 :::: grid
 ::: g-col-12
-![](/img/brain_montage_photos.png)
+![](/img/brain_montage_photos.webp)
 :::
 ::::
 
@@ -46,7 +46,7 @@ pagetitle: MemoLab
 
 <br> <br>
 
-![The MemoLab at Boston College, Fall 2024](people/img/memolab_group_2024.jpg)
+![Fall 2024](people/img/memolab_group_2024.jpg)
 
 ::::: grid
 :::: g-col-12
@@ -66,6 +66,6 @@ We are located in the <a href="https://www.psych.ucla.edu/">Department of Psycho
 Los Angeles, CA 90095\
 <a href="mailto:mritchey+memolab@ucla.edu" title="email"><i class="bi bi-envelope"></i></a>   <a href="https://github.com/memobc" title="github"><i class="bi bi-github"></i></a>  
 
-[Participate](/participate) in psychology and neuroscience research, or inquire about [joining the lab](/joinus).
+Interested in working with us? Find out about [joining the lab](/joinus).
 :::
 ::::
