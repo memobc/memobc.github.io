@@ -4,16 +4,14 @@ aliases:
   - /news
 listing:
   contents: news
-  type: grid
+  type: default
   sort: "date desc"
-  fields: [title, date, description, categories]
-  # categories: true
-  max-description-length: 100
-  grid-item-border: true
-  grid-columns: 3
+  fields: [date, title, description]
+  date-format: "MMMM D, YYYY"
+  max-description-length: 150
 format:
   html:
     css: 
-      - styles_news.css # specific to news grid
+      - styles_news.css # specific to news feed
       - styles.css
 ---
